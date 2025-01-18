@@ -6,11 +6,6 @@
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
-  <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="pranshutople@rigbetllabs.com">PranshuTople</maintainer>
-  <maintainer email="shubhamnandi@rigbetllabs.com">ShubhamNandi</maintainer>
-
-
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
@@ -54,21 +49,21 @@
   <build_depend>roslib</build_depend>
   <build_depend>rospy</build_depend>
   <build_depend>std_msgs</build_depend>
-	<build_depend>cv_bridge</build_depend>  <!-- Added cv_bridge dependency -->
+  <build_depend>cv_bridge</build_depend>  <!-- Added cv_bridge dependency -->
   <build_depend>opencv2</build_depend>    <!-- Added OpenCV dependency -->
 
   <build_export_depend>roscpp</build_export_depend>
   <build_export_depend>roslib</build_export_depend>
   <build_export_depend>rospy</build_export_depend>
   <build_export_depend>std_msgs</build_export_depend>
-	<build_export_depend>cv_bridge</build_export_depend>
+  <build_export_depend>cv_bridge</build_export_depend>
   <build_export_depend>opencv2</build_export_depend>
     
   <exec_depend>roscpp</exec_depend>
   <exec_depend>roslib</exec_depend>
   <exec_depend>rospy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
-	<exec_depend>cv_bridge</exec_depend>  <!-- Added for runtime -->
+  <exec_depend>cv_bridge</exec_depend>  <!-- Added for runtime -->
   <exec_depend>opencv2</exec_depend>    <!-- Added for runtime -->
 
 
