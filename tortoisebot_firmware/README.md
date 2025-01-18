@@ -15,9 +15,9 @@ This project showcases an ArUco marker-following robot that utilizes computer vi
 - **Predefined Tasks**: Demonstrates tasks like pick-and-place and path-following using ArUco markers.
 
 **Getting Started:**
-1. Clone the repository: `https://github.com/DeepSoul-173/Aruco-markerFollower_robot.git`
+1. Clone the repository: `https://github.com/DeepSoul-173/ArUco-Follower_Robot-for-ROS.git'
 2. Build the ROS workspace.
-3. Launch the robot node: `rosrun tortoisebot_firmware opencv_node.py
+3. Launch the robot node: `rosrun tortoisebot_firmware opencv_node.py'
 
 
 **Prerequisites:**
