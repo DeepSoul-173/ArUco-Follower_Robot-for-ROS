@@ -47,8 +47,6 @@ source devel/setup.bash
 - Connect your camera to the system.
 - Place the ArUco cube within the camera's field of view.
 
-  ```
-
 ### 4. Launch RViz for Visualization
 - Open RViz to visualize the cube’s pose:
   ```bash
